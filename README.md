@@ -17,11 +17,25 @@ Below is a compilation of selected GIS mapping projects over the past 5 years.
 
 
 
-### Lake Geneva Bathymetry
+## Lake Geneva Bathymetry
 ![](assets/lake_Gneva.png)
 
-# Canopy Height
+## Canopy Height
 ![](assets/canopy_height.png)
+
+## City of Leeds 3D
+![](assets/leeds_3d.png)
+
+## Panama Population 3D
+![](assets/population_3D.png)
+
+## Relative Elevation Model River Severn
+![](assets/REM_severn1.png)
+
+## Colorful Panama Rivers
+![](assets/panama_rivers.png)
+
+
 
 
 
