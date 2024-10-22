@@ -7,7 +7,7 @@ I am a geospatial professional with expertise in spatial data acquisition and an
 - B.S., Geography | University of Panama _2017_
 
 ## Work Experience
-**Geospatial Analyst at Watermarq London (_Sept 2023 - Present_)
+**Geospatial Analyst at Watermarq London (_Sept 2023 - Present_)**
 - Conducted spatiotemporal data analysis of surface water availability and water demand trends.
 - Developed new methods for water demand and supply accounting
 - Carried out country-level water risk assessment to evaluate water availability risks in countries with significant mining operations.
