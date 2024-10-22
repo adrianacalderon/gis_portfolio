@@ -43,6 +43,9 @@ Below is a compilation of selected GIS mapping projects over the past 5 years.
 ## Colorful Panama Rivers
 ![](assets/panama_rivers.png)
 
+## Central America Rainfall animation
+![](assets/Rain_gif.gif)
+
 
 
 
