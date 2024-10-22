@@ -17,5 +17,12 @@ Below is a compilation of selected GIS mapping projects over the past 5 years.
 
 
 
-
+### Lake Geneva Bathymetry
 ![](assets/lake_Gneva.png)
+
+# Canopy Height
+![](assets/canopy_height.png)
+
+
+
+
