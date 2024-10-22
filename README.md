@@ -2,15 +2,16 @@
 ##Summary
 I am a geospatial professional with expertise in spatial data acquisition and analysis, focusing on water resources management and climate change.
 
-### Education
-MSc River Basin Dynamics and GIS
+## Education							       		
+- M.S., River Basin Dynamics and GIS	| University of Leeds (_2019_)	 			        		
+- B.S., Geography | University of Panama (_2017_)
 
 ### Work Experience
 Watermarq
 
 World Meteorological Organization
 
-# Portfolio
+# Map Portfolio
 Below is a compilation of selected GIS mapping projects over the past 5 years. 
 
 
