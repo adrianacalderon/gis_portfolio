@@ -16,4 +16,4 @@ Below is a compilation of selected GIS maaping projects over the past 5 years.
 
 
 
-![Lake Geneva](assets/lake_Geneva.png)
+![](assets/lake_Gneva.png)
