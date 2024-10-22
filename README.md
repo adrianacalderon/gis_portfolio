@@ -3,5 +3,5 @@
 ### Education
 MSc River Basin Dynamics and GIS
 
-### Wor Experience
+### Work Experience
 Watermarq
