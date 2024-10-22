@@ -23,7 +23,8 @@ Below is a compilation of selected GIS mapping projects over the past 5 years.
 
 
 
-
+## Geneva city 3D
+![](assets/gva_render11.png)
 
 ## Lake Geneva Bathymetry
 ![](assets/lake_Gneva.png)
