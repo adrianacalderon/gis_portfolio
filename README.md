@@ -30,7 +30,7 @@ Below is a compilation of selected GIS mapping projects over the past 5 years.
 ![](assets/population_3D.png)
 
 ## Relative Elevation Model River Severn
-![](assets/REM_severn1.png)
+![](assets/REM_severn1.jpg)
 
 ## Colorful Panama Rivers
 ![](assets/panama_rivers.png)
