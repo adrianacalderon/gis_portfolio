@@ -1,6 +1,6 @@
 # Spatial Data Science, Water Resources, Climate Change
 ##Summary
-I am a geospatial professional with expertise in spatial data acquisition and analysis, focusing on water resources management and climate change.
+Geospatial professional with expertise in spatial data acquisition and analysis, focusing on water resources management and climate change.
 
 ## Education							       		
 - M.S., River Basin Dynamics and GIS	| University of Leeds _2019_	 			        		
