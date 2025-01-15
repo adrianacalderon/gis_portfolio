@@ -5,7 +5,7 @@ I am a Geographer with experience in spatial data science, specializing in water
 
 I enjoy creating new maps to explore and highlight the geography of our world using creative techniques and vibrant colors. I’m also passionate about experimenting with new geospatial data and tools to bring visualizations to life in vivid ways. 
 
-Below is a collection of selected GIS mapping projects :earth_americas:
+Below is a collection of selected GIS mapping projects :earth_americas: 😊
 
 
 ## Banana Plantations in Changuinola, Panama
