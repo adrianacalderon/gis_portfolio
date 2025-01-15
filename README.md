@@ -1,5 +1,5 @@
 # Spatial Data Science, Water Resources, Climate Change
-##Summary
+## Summary
 Geospatial professional with expertise in spatial data science, focusing on water resources management and climate change.
 
 ## Education							       		
@@ -22,7 +22,7 @@ Geospatial data acquisition and analysis on water demand and supply trends.
 Below is a compilation of selected GIS mapping projects. 
 
 ## Banana Plantations in Changuinola, Panama
-![](assets/bananas2 (4).png)
+![](assets/bananas2.png)
 
 ## Geneva city 3D
 ![](assets/gva_render11.png)
