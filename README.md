@@ -15,7 +15,7 @@ Below is a collection of selected GIS mapping projects :earth_americas:
 ![](assets/gva_render11.png)
 
 ## Summer Precipitation Anomalies in Panama, May 2023
-![](assets/pty.jpg)
+![](assets/pcp_anom23.png)
 
 ## Lake Geneva Bathymetry
 ![](assets/lake_Gneva.png)
