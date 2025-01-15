@@ -1,5 +1,6 @@
 # Map Portfolio
 Hi! :palm_tree:
+
 I am a Geographer with experience in spatial data science, specializing in water resources management and climate change.
 
 I enjoy creating new maps to explore and highlight the geography of our world using creative techniques and vibrant colors. I’m also passionate about experimenting with new geospatial data and tools to bring visualizations to life in vivid ways. 
