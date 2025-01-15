@@ -7,7 +7,7 @@ I enjoy creating new maps to explore and highlight the geography of our world us
 
 Below is a collection of selected GIS mapping projects :earth_americas:
 
-<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;" />
+
 ## Banana Plantations in Changuinola, Panama
 ![](assets/bananas2.png)
 
