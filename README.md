@@ -14,6 +14,8 @@ Below is a collection of selected GIS mapping projects :earth_americas:
 ## Geneva city 3D
 ![](assets/gva_render11.png)
 
+## Summer Precipitation Anomalies in Panama, May 2023
+
 ## Lake Geneva Bathymetry
 ![](assets/lake_Gneva.png)
 
