@@ -19,7 +19,10 @@ Geospatial data acquisition and analysis on water demand and supply trends.
 **Ministry of Environment Panama (_March 2020 - Oct 2021)**
 - Conducted modeling and spatial analysis of sea-level rise and climate change impacts, analyzed satellite imagery for forest emission assessments, and developed geodatabases to monitor climate data and vulnerability
 # Map Portfolio
-Below is a compilation of selected GIS mapping projects over the past 5 years. 
+Below is a compilation of selected GIS mapping projects. 
+
+## Banana Plantations in Changuinola, Panama
+
 
 
 
