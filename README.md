@@ -1,10 +1,8 @@
-# Spatial Data Science, Water Resources, Climate Change
-## Summary
-Hi!
-I am a Geographer with experience in spatial data science, focusing on water resources management and climate change.
-
 # Map Portfolio
-Below is a compilation of selected GIS mapping projects. 
+Hi!
+I am a Geographer with experience in spatial data science, specializing in water resources management and climate change.
+
+I enjoy creating new maps to explore and highlight the geography of our world using creative techniques and vibrant colors. I’m also passionate about experimenting with new geospatial data and tools to bring visualizations to life in vivid ways. palm_tree:
 
 ## Banana Plantations in Changuinola, Panama
 ![](assets/bananas2.png)
