@@ -22,9 +22,7 @@ Geospatial data acquisition and analysis on water demand and supply trends.
 Below is a compilation of selected GIS mapping projects. 
 
 ## Banana Plantations in Changuinola, Panama
-
-
-
+![](assets/bananas2 (4).png)
 
 ## Geneva city 3D
 ![](assets/gva_render11.png)
