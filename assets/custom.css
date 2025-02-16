@@ -11,6 +11,20 @@ a {
 h1 {
     color: #ffffff !important; /* Pink */
 }
+/* Target the auto-inserted Jekyll logo */
+img[alt="Logo"] {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    z-index: 1000;
+    transition: opacity 0.3s ease-in-out;
+}
+
+img[alt="Logo"].hide {
+    opacity: 0;
+    pointer-events: none;
+}
+
 /* Hide logo when scrolling */
 .logo-container {
     position: fixed;
