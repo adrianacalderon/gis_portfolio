@@ -11,3 +11,16 @@ a {
 h1 {
     color: #ffffff !important; /* Pink */
 }
+/* Hide logo when scrolling */
+.logo-container {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    z-index: 1000;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.logo-container.hide {
+    opacity: 0;
+    pointer-events: none;
+}
