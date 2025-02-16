@@ -12,3 +12,13 @@ h1 {
     color: #ffffff !important; /* Pink */
 }
 
+/* Make header disappear on scroll */
+header {
+    transition: opacity 0.3s ease-in-out;
+}
+
+/* This will make the header disappear when scrolling down */
+header.hide {
+    opacity: 0;
+    pointer-events: none;
+}
