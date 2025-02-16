@@ -1,14 +1,8 @@
 body {
-    background-color: #121212; /* Dark mode background */
-    color: #ffffff; /* Light text */
+    background-color: #121212 !important; /* Dark background */
+    color: #ffffff !important; /* White text */
 }
 
 a {
-    color: #1e90ff; /* Blue links for visibility */
-}
-
-.wrapper {
-    background: #1e1e1e; /* Slightly lighter dark for contrast */
-    padding: 20px;
-    border-radius: 10px;
+    color: #1e90ff !important; /* Light blue links */
 }
