@@ -1,7 +1,7 @@
 <head>
   <link rel="stylesheet" type="text/css" href="assets/custom.css">
 </head>
-https://adrianacalderon.github.io/gis_portfolio/
+
 # Map Portfolio
 Hi! 🌴
 
