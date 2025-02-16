@@ -30,3 +30,10 @@ header img {
     border-radius: 50%; /* This makes the image circular */
     object-fit: cover; /* Ensures the image fills the circular area */
 }
+/* Add a line under all H2 headings */
+h2 {
+    color: #ffcc00 !important; /* Yellow */
+    border-bottom: 2px solid #ffffff; /* White line */
+    padding-bottom: 5px; /* Space between text and line */
+    margin-bottom: 15px; /* Space below the heading */
+}
