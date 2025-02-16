@@ -48,11 +48,13 @@ Below is a collection of selected GIS mapping projects 🌎
 
 <script>
 document.addEventListener("scroll", function() {
-    var logo = document.querySelector(".logo-container");
-    if (window.scrollY > 50) {
-        logo.classList.add("hide");
-    } else {
-        logo.classList.remove("hide");
+    var logo = document.querySelector(".logo-container"); // Select the manually inserted logo
+    if (logo) {
+        if (window.scrollY > 50) {
+            logo.classList.add("hide"); // Hide logo when scrolling down
+        } else {
+            logo.classList.remove("hide"); // Show logo when scrolling up
+        }
     }
 });
 </script>
