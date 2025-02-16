@@ -24,8 +24,8 @@ header.hide {
 }
 /* Make the logo circular */
 header img {
-    width: 250px;  /* Adjust size if needed */
-    height: 250px; /* Ensure it's a circle */
+    width: 200px;  /* Adjust size if needed */
+    height: 200px; /* Ensure it's a circle */
     border-radius: 50%; /* This makes the image circular */
     object-fit: cover; /* Ensures the image fills the circular area */
 }
