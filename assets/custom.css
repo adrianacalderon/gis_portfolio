@@ -34,9 +34,9 @@ header img {
 /* Force a line under all H2 headings */
 h2 {
     display: block;
-    width: 50%;
+    width: 100%;
     color: #ffffff !important; /* Yellow */
-    border-bottom: 2px solid white !important; /* White underline */
+    border-bottom: 2px solid rgba(255, 255, 255, 0.5); /* Semi-transparent white */
     padding-bottom: 5px; /* Space between text and line */
     margin-bottom: 15px; /* Space below the heading */
 }
