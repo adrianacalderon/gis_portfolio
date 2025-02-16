@@ -31,9 +31,13 @@ header img {
     object-fit: cover; /* Ensures the image fills the circular area */
 }
 /* Add a line under all H2 headings */
+/* Force a line under all H2 headings */
 h2 {
+    display: block;
+    width: 100%;
     color: #ffcc00 !important; /* Yellow */
-    border-bottom: 2px solid #ffffff; /* White line */
+    border-bottom: 2px solid white !important; /* White underline */
     padding-bottom: 5px; /* Space between text and line */
     margin-bottom: 15px; /* Space below the heading */
 }
+
