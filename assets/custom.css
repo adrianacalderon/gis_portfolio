@@ -6,17 +6,18 @@ body {
 a {
     color: #1e90ff !important; /* Light blue links */
 }
-
 /* Change heading colors */
 h1 {
-    color: #ffffff !important; /* Pink */
+    color: #ffffff !important; /* white */
 }
-
+/* Change the color of all H2 headings */
+h2 {
+    color: #ffffff !important; /* Yellow */
+}
 /* Make header disappear on scroll */
 header {
     transition: opacity 0.3s ease-in-out;
 }
-
 /* This will make the header disappear when scrolling down */
 header.hide {
     opacity: 0;
