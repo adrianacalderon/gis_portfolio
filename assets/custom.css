@@ -11,12 +11,13 @@ a {
 h1 {
     color: #ffffff !important; /* Pink */
 }
-/* Hide site title, description, and downloads on scroll */
-.site-header {
+/* Hide header (title, logo, description) on scroll */
+header {
     transition: opacity 0.3s ease-in-out;
 }
 
-.site-header.hide {
+header.hide {
     opacity: 0;
     pointer-events: none;
 }
+
