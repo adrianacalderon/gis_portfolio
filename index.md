@@ -45,3 +45,14 @@ Below is a collection of selected GIS mapping projects 🌎
 
 ## Central America Rainfall animation
 ![](assets/Rain_gif.gif)
+
+<script>
+document.addEventListener("scroll", function() {
+    var logo = document.querySelector(".logo-container");
+    if (window.scrollY > 50) {
+        logo.classList.add("hide");
+    } else {
+        logo.classList.remove("hide");
+    }
+});
+</script>
