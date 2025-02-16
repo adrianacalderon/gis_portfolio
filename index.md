@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="{{ '/assets/custom.css' | relative_url }}">
+</head>
+
 ---
 title: Map Portfolio
 ---
