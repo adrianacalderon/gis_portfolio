@@ -22,3 +22,11 @@ header.hide {
     opacity: 0;
     pointer-events: none;
 }
+/* Make the logo circular */
+header img {
+    width: 100px;  /* Adjust size if needed */
+    height: 100px; /* Ensure it's a circle */
+    border-radius: 50%; /* This makes the image circular */
+    object-fit: cover; /* Ensures the image fills the circular area */
+    border: 3px solid white; /* Optional: adds a white border */
+}
