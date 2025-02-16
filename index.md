@@ -13,6 +13,7 @@ Below is a collection of selected GIS mapping projects 🌎
 
 
 ## Banana Plantations in Changuinola, Panama
+---
 ![](assets/bananas.png)
 
 ## Geneva city 3D
