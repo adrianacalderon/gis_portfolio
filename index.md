@@ -2,13 +2,6 @@
 title: Map Portfolio
 ---
 
-<head>
-  <link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">
-</head>
-
-<!-- Add your logo here -->
-<img src="assets/pic_bridge.jpg" class="logo-container">
-
 # Map Portfolio
 Hi! 🌴
 
@@ -51,13 +44,14 @@ Below is a collection of selected GIS mapping projects 🌎
 
 <script>
 document.addEventListener("scroll", function() {
-    var header = document.querySelector(".site-header"); // Find the title & description
+    var header = document.querySelector("header"); // Select the header
     if (header) {
         if (window.scrollY > 50) {
-            header.classList.add("hide"); // Hide when scrolling down
+            header.classList.add("hide"); // Hide header when scrolling down
         } else {
-            header.classList.remove("hide"); // Show when scrolling up
+            header.classList.remove("hide"); // Show header when scrolling up
         }
     }
 });
 </script>
+
