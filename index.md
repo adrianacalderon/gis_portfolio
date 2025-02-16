@@ -51,12 +51,12 @@ Below is a collection of selected GIS mapping projects 🌎
 
 <script>
 document.addEventListener("scroll", function() {
-    var logo = document.querySelector(".logo-container"); // Select the manually inserted logo
-    if (logo) {
+    var header = document.querySelector(".site-header"); // Find the title & description
+    if (header) {
         if (window.scrollY > 50) {
-            logo.classList.add("hide"); // Hide logo when scrolling down
+            header.classList.add("hide"); // Hide when scrolling down
         } else {
-            logo.classList.remove("hide"); // Show logo when scrolling up
+            header.classList.remove("hide"); // Show when scrolling up
         }
     }
 });
