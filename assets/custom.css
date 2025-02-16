@@ -6,3 +6,8 @@ body {
 a {
     color: #1e90ff !important; /* Light blue links */
 }
+
+/* Change heading colors */
+h1 {
+    color: #ff66b2 !important; /* Pink */
+}
