@@ -6,6 +6,9 @@ title: Map Portfolio
   <link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">
 </head>
 
+<!-- Add your logo here -->
+<img src="assets/pic_bridge.jpg" class="logo-container">
+
 # Map Portfolio
 Hi! 🌴
 
