@@ -42,10 +42,14 @@ Below is a collection of selected GIS mapping projects 🌎
 ## Central America Rainfall animation
 ![](assets/Rain_gif.gif)
 
+## Interlaken
+![](assets/interlaken.png)
+
 ## Lord of the Rings style
+![](assets/LOTR.png)
 
+## Aegean Islands in 3D
+![](assets/aegean_islands_compressed.png)
 
-
-
-
-
+## Volcan Barú
+![](assets/volcan_baru.png)
