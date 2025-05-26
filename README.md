@@ -24,7 +24,7 @@ Below is a collection of selected GIS mapping projects 🌎
 ## Lake Geneva Bathymetry
 ![](assets/lake_Gneva.png)
 
-## Canopy Height
+## Canopy Height Model - Selby, England
 ![](assets/canopy_height.png)
 
 ## City of Leeds 3D
